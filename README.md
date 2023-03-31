@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kflemin3
+- 👋 Hi, I’m npc
 - 👀 I’m interested in gaming, informationial technology, and cyber security
 - 🌱 I’m currently learning cyber security
 
